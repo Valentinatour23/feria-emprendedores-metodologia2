@@ -1,4 +1,4 @@
-
+package codigolimpio.proyecto2;
 public class DescuentoClienteRegularStrategy implements EstrategiaDescuento { 
     private static final double TASA_DESCUENTO_REGULAR = 0.05; 
      

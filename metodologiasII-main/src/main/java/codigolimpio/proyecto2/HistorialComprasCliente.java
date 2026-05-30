@@ -1,3 +1,6 @@
+package codigolimpio.proyecto2;
+import java.time.LocalDateTime; 
+import java.util.List;
 public class HistorialComprasCliente { 
     private final List<Pedido> pedidos; 
      
